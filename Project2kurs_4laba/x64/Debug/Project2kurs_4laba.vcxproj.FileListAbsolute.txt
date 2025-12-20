@@ -1,0 +1,5 @@
+C:\Users\valer\Desktop\Прога 3 сем\Laba5\Project2kurs_4laba\x64\Debug\Project2kurs_4laba.vcxproj.AssemblyReference.cache
+C:\Users\valer\Desktop\Прога 3 сем\Laba5\Project2kurs_4laba\x64\Debug\Project2kurs4laba.AddEditTariffForm.resources
+C:\Users\valer\Desktop\Прога 3 сем\Laba5\Project2kurs_4laba\x64\Debug\Project2kurs4laba.MainForm.resources
+C:\Users\valer\Desktop\Прога 3 сем\Laba5\Project2kurs_4laba\x64\Debug\Project2kurs_4laba.vcxproj.GenerateResource.cache
+C:\Users\valer\Desktop\Прога 3 сем\Laba5\Project2kurs_4laba\x64\Debug\Project2.328CDDE4.Up2Date
